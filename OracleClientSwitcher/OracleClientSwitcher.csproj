@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>OracleClientSwitcher</AssemblyName>
+    <RootNamespace>OracleClientSwitcher</RootNamespace>
+    <Version>2.0.0</Version>
+    <Product>Oracle 客户端切换器</Product>
+    <Description>Oracle 客户端发现、切换、隔离启动与 TNS 可视化管理工具</Description>
+    <Company>OracleClientSwitcher</Company>
+    <Copyright>Copyright © 2026</Copyright>
+    <NeutralLanguage>zh-CN</NeutralLanguage>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <ApplicationIcon>Assets\OracleClientSwitcher.ico</ApplicationIcon>
+  </PropertyGroup>
+</Project>

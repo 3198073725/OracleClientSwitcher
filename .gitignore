@@ -1,0 +1,13 @@
+OracleClientSwitcher/bin/
+OracleClientSwitcher/obj/
+.vs/
+.idea/
+.vscode/
+/dist/
+/*.png
+/*.json
+/*.zip
+/*.log
+*.tmp
+*.user
+*.suo
